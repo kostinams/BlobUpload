@@ -1,0 +1,30 @@
+﻿[
+  {
+    "FrontDoorName": "<Replace with FrontDoor domain name, such as irina.azureisv.com>",
+    "ShardName": "01uksouth",
+    "AccountName": "01uksouth",
+    "AccountKey": "<Replace with storage key>",
+    "ContainerName": "testuploadcontainer"
+  },
+  {
+    "FrontDoorName": "<Replace with FrontDoor domain name, such as irina.azureisv.com>",
+    "ShardName": "02uksouth",
+    "AccountName": "02uksouth",
+    "AccountKey": "<Replace with storage key>",
+    "ContainerName": "testuploadcontainer"
+  },
+  {
+    "FrontDoorName": "<Replace with FrontDoor domain name, such as irina.azureisv.com>",
+    "ShardName": "01ukwest",
+    "AccountName": "01ukwest",
+    "AccountKey": "<Replace with storage key>",
+    "ContainerName": "testuploadcontainer"
+  },
+  {
+    "FrontDoorName": "<Replace with FrontDoor domain name, such as irina.azureisv.com>",
+    "ShardName": "02ukwest",
+    "AccountName": "02ukwest",
+    "AccountKey": "<Replace with storage key>",
+    "ContainerName": "testuploadcontainer"
+  }
+]
